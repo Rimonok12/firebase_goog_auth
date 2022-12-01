@@ -1,0 +1,95 @@
+[debug] [2022-12-01T19:45:01.405Z] ----------------------------------------------------------------------
+[debug] [2022-12-01T19:45:01.407Z] Command:       /usr/local/bin/node /usr/local/bin/firebase init
+[debug] [2022-12-01T19:45:01.407Z] CLI Version:   11.16.1
+[debug] [2022-12-01T19:45:01.407Z] Platform:      darwin
+[debug] [2022-12-01T19:45:01.407Z] Node Version:  v18.1.0
+[debug] [2022-12-01T19:45:01.408Z] Time:          Fri Dec 02 2022 01:15:01 GMT+0530 (India Standard Time)
+[debug] [2022-12-01T19:45:01.408Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-12-01T19:45:01.412Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-12-01T19:45:01.413Z] > authorizing via signed-in user (rimonok12@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/rimon_dn/Desktop/Backend-Node/google_authenticate/goog_auth
+
+[debug] [2022-12-01T19:45:45.588Z] Error: Timed out.
+    at Timeout._onTimeout (/usr/local/lib/node_modules/firebase-tools/lib/utils.js:253:49)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2022-12-01T19:45:51.773Z] ----------------------------------------------------------------------
+[debug] [2022-12-01T19:45:51.775Z] Command:       /usr/local/bin/node /usr/local/bin/firebase init
+[debug] [2022-12-01T19:45:51.775Z] CLI Version:   11.16.1
+[debug] [2022-12-01T19:45:51.775Z] Platform:      darwin
+[debug] [2022-12-01T19:45:51.775Z] Node Version:  v18.1.0
+[debug] [2022-12-01T19:45:51.776Z] Time:          Fri Dec 02 2022 01:15:51 GMT+0530 (India Standard Time)
+[debug] [2022-12-01T19:45:51.776Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-12-01T19:45:51.780Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-12-01T19:45:51.781Z] > authorizing via signed-in user (rimonok12@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/rimon_dn/Desktop/Backend-Node/google_authenticate/goog_auth
+
+[debug] [2022-12-01T19:45:59.156Z] Error: Timed out.
+    at Timeout._onTimeout (/usr/local/lib/node_modules/firebase-tools/lib/utils.js:253:49)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2022-12-01T19:46:04.132Z] ----------------------------------------------------------------------
+[debug] [2022-12-01T19:46:04.133Z] Command:       /usr/local/bin/node /usr/local/bin/firebase init
+[debug] [2022-12-01T19:46:04.134Z] CLI Version:   11.16.1
+[debug] [2022-12-01T19:46:04.134Z] Platform:      darwin
+[debug] [2022-12-01T19:46:04.134Z] Node Version:  v18.1.0
+[debug] [2022-12-01T19:46:04.135Z] Time:          Fri Dec 02 2022 01:16:04 GMT+0530 (India Standard Time)
+[debug] [2022-12-01T19:46:04.135Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-12-01T19:46:04.139Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-12-01T19:46:04.140Z] > authorizing via signed-in user (rimonok12@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/rimon_dn/Desktop/Backend-Node/google_authenticate/goog_auth
+
+[debug] [2022-12-01T19:46:31.712Z] Error: Timed out.
+    at Timeout._onTimeout (/usr/local/lib/node_modules/firebase-tools/lib/utils.js:253:49)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2022-12-01T19:46:49.529Z] ----------------------------------------------------------------------
+[debug] [2022-12-01T19:46:49.531Z] Command:       /usr/local/bin/node /usr/local/bin/firebase deploy
+[debug] [2022-12-01T19:46:49.531Z] CLI Version:   11.16.1
+[debug] [2022-12-01T19:46:49.531Z] Platform:      darwin
+[debug] [2022-12-01T19:46:49.531Z] Node Version:  v18.1.0
+[debug] [2022-12-01T19:46:49.532Z] Time:          Fri Dec 02 2022 01:16:49 GMT+0530 (India Standard Time)
+[debug] [2022-12-01T19:46:49.532Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-12-01T19:46:54.611Z] Error: Timed out.
+    at Timeout._onTimeout (/usr/local/lib/node_modules/firebase-tools/lib/utils.js:253:49)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[error] 
+[error] Error: An unexpected error has occurred.
